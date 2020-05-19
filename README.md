@@ -1,4 +1,8 @@
 # vue-todo
+The Project is Under Development
+Live ...
+1) https://codec-todo.web.app/
+2) https://codec-todo.firebaseapp.com/
 
 ## Project setup
 ```
