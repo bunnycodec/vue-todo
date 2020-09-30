@@ -1,8 +1,8 @@
 # vue-todo
 The Project is Under Development
 Live ...
-1) https://codec-todo.web.app/
-2) https://codec-todo.firebaseapp.com/
+1) [Todo-App](https://codec-todo.web.app/)
+2) [Todo-App](https://codec-todo.firebaseapp.com/) ~ Use this Link in Case above is not working.
 
 ## Project setup
 ```
